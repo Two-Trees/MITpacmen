@@ -29,9 +29,9 @@ function makePac() {
   newimg.style.width = 100; 
   newimg.style.top = 100;
 
-  // TODO: set position here
+  
 
-  // TODO add new Child image to game
+  // add new  image to game
   game.appendChild(newimg);
 
   // return details in an object
